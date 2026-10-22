@@ -1,0 +1,6 @@
+# OPTIONAL. List CSV file names (one per line) to merge in this exact order.
+# Leave empty (or only comments) to auto-sort by file name (01_, 02_, ... / file1, file2, ...).
+# Example:
+# customers.csv
+# orders.csv
+# payments.csv
